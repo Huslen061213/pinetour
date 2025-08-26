@@ -109,6 +109,7 @@ p {
   align-items: center;
   justify-content: space-around;
   gap: 40px;
+  padding-top: 40px;
 }
 .background2 {
   display: flex;
@@ -382,4 +383,66 @@ p {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+.card3 {
+  display: flex;
+  justify-content: center;
+  gap: var(--24-px-unit-6, 24px);
+}
+.background4 {
+  height: 1120px;
+  background-image: url(./Price&Footer\ image.png);
+  position: relative;
+}
+.zai {
+  padding-top: 40px;
+}
+.zai2 {
+  padding-top: 160px;
+}
+.fc {
+  width: 24px;
+  height: 24px;
+}
+.facebook {
+  color: #6972b5;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 93px;
+  height: 22px;
+}
+.fcbok {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: var(--radius-rounded-full, 9999px);
+  background: #fafbfc;
+  width: 167px;
+  height: 24px;
+}
+.suul {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.logo {
+  width: 101px;
+  height: 34px;
+}
+.hmgindood {
+  display: flex;
+  width: 1200px;
+  max-width: 1440px;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 80px;
+  right: 200px;
 }
