@@ -1,3 +1,20 @@
+.hanuman {
+  font-family: "Hanuman", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.bebas {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 .t1 {
   font-size: 18px;
   font-weight: 600;
@@ -58,6 +75,7 @@ p {
   font-weight: 400;
   text-align: center;
   margin: 0;
+  font-family: ;
 }
 .margin {
   margin: 0;
